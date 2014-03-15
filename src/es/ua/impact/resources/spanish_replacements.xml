@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Type: (1)=Double  (2)=Boolean  (3)=Integer  (4)=String-->
+<!--Text Type: (0)=Multi-line  (1)=Single-line  (2)=List-->
+<Parameters>
+<Parameter type="4" name="Character" id="61868" value="0020,0020,0020:=0009" sortIndex="1" visible="false" isSet="true"><Description>3 spaces to tabulation</Description></Parameter>
+<Parameter type="4" name="Character" id="61868" value="F1AC:=003B" sortIndex="1" visible="false" isSet="true"><Description>Latin abbreviation sign semicolon</Description></Parameter>
+<Parameter type="4" name="Character" id="61345" value="EFA1:=00E6" sortIndex="16" visible="false" isSet="true"><Description>Latin small ligature neckless a e</Description></Parameter>
+<Parameter type="4" name="Character" id="61124" value="EEC4:=0063,006B" sortIndex="21" visible="false" isSet="true"><Description>Latin small ligature ck</Description></Parameter>
+<Parameter type="4" name="Character" id="61125" value="EEC5:=0063,0074" sortIndex="22" visible="false" isSet="true"><Description>Latin small ligature ct</Description></Parameter>
+<Parameter type="4" name="Character" id="62722" value="F502:=0063,0068" sortIndex="24" visible="false" isSet="true"><Description>Latin small letter c ligated with latin small letter h</Description></Parameter>
+<Parameter type="4" name="Character" id="62743" value="F517:=0063,0303" sortIndex="25" visible="false" isSet="true"><Description>Latin small letter c with tilde</Description></Parameter>
+<Parameter type="4" name="Character" id="62730" value="F50A:=0064,0027" sortIndex="26" visible="false" isSet="true"><Description>Latin small letter d with apostrophe</Description></Parameter>
+<Parameter type="4" name="Character" id="7869" value="F503:=1EBD" sortIndex="39" visible="false" isSet="true"><Description>Latin small letter e with tilde</Description></Parameter>
+<Parameter type="4" name="Character" id="62741" value="F515:=0065,0074" sortIndex="43" visible="false" isSet="true"><Description>Latin small letter e ligated with latin small letter t</Description></Parameter>
+<Parameter type="4" name="Character" id="64256" value="FB00:=0066,0066" sortIndex="44" visible="false" isSet="true"><Description>Latin small ligature ff</Description></Parameter>
+<Parameter type="4" name="Character" id="64257" value="FB01:=0066,0069" sortIndex="45" visible="false" isSet="true"><Description>Latin small ligature fi</Description></Parameter>
+<Parameter type="4" name="Character" id="64258" value="FB02:=0066,006C" sortIndex="46" visible="false" isSet="true"><Description>Latin small ligature FL</Description></Parameter>
+<Parameter type="4" name="Character" id="62724" value="F504:=0067,030A" sortIndex="47" visible="false" isSet="true"><Description>Latin small letter g with ring above</Description></Parameter>
+<Parameter type="4" name="Character" id="62725" value="F505:=0067,0304" sortIndex="48" visible="false" isSet="true"><Description>Latin small letter g with macron above</Description></Parameter>
+<Parameter type="4" name="Character" id="62726" value="F506:=0068,030A" sortIndex="49" visible="false" isSet="true"><Description>Latin small letter h with ring above</Description></Parameter>
+<Parameter type="4" name="Character" id="307" 	value="0133:=0069,006A" sortIndex="55" visible="false" isSet="true"><Description>Latin small ligature ij</Description></Parameter>
+<Parameter type="4" name="Character" id="42861" value="A76D:=0069,0073" sortIndex="56" visible="false" isSet="true"><Description>Latin small letter is</Description></Parameter>
+<Parameter type="4" name="Character" id="60387" value="EBE3:=006A,0308" sortIndex="58" visible="false" isSet="true"><Description>Latin small letter j with diaeresis</Description></Parameter>
+<Parameter type="4" name="Character" id="62713" value="F4F9:=006C,006C" sortIndex="61" visible="false" isSet="true"><Description>Latin small ligature ll</Description></Parameter>
+<Parameter type="4" name="Character" id="62731" value="F50B:=006C,0027" sortIndex="62" visible="false" isSet="true"><Description>Latin small letter l with apostrophe</Description></Parameter>
+<Parameter type="4" name="Character" id="58808" value="E5B8:=006D,0304" sortIndex="63" visible="false" isSet="true"><Description>Latin small letter m with medium-high macron (above character)</Description></Parameter>
+<Parameter type="4" name="Character" id="62745" value="F519:=006D,0303" sortIndex="64" visible="false" isSet="true"><Description>Latin small letter m with tilde</Description></Parameter>
+<Parameter type="4" name="Character" id="57820" value="E1DC:=00D1" sortIndex="67" visible="false" isSet="true"><Description>Latin capital letter N with high macron above</Description></Parameter>
+<Parameter type="4" name="Character" id="58844" value="E5DC:=00F1" sortIndex="68" visible="false" isSet="true"><Description>Latin small letter n with medium high makron above</Description></Parameter>
+<Parameter type="4" name="Character" id="62735" value="F50E:=0071,0301" sortIndex="98" visible="false" isSet="true"><Description>Latin small letter q with acute</Description></Parameter>
+<Parameter type="4" name="Character" id="62735" value="F50F:=0071,0303" sortIndex="98" visible="false" isSet="true"><Description>Latin small letter q with tilde</Description></Parameter>
+<Parameter type="4" name="Character" id="62736" value="F510:=0072,0304" sortIndex="103" visible="false" isSet="true"><Description>Latin small letter r with macron above</Description></Parameter>
+<Parameter type="4" name="Character" id="62744" value="F518:=0072,0303" sortIndex="104" visible="false" isSet="true"><Description>Latin small letter r with tilde</Description></Parameter>
+<Parameter type="4" name="Character" id="60122" value="EADA:=017F,0074" sortIndex="108" visible="false" isSet="true"><Description>Latin small ligature long s descending t</Description></Parameter>
+<Parameter type="4" name="Character" id="60322" value="EBA2:=017F,0069" sortIndex="109" visible="false" isSet="true"><Description>Latin small ligature long s i</Description></Parameter>
+<Parameter type="4" name="Character" id="60326" value="EBA6:=017F,017F" sortIndex="110" visible="false" isSet="true"><Description>Latin small ligature long s long s</Description></Parameter>
+<Parameter type="4" name="Character" id="60327" value="EBA7:=017F,017F,0069" sortIndex="111" visible="false" isSet="true"><Description>Latin small ligature long s long s i</Description></Parameter>
+<Parameter type="4" name="Character" id="62719" value="F4FF:=017F,0074" sortIndex="113" visible="false" isSet="true"><Description>Latin small ligature long s long s t</Description></Parameter>
+<Parameter type="4" name="Character" id="62737" value="F511:=0073,0303" sortIndex="114" visible="false" isSet="true"><Description>Latin small letter s with macron above</Description></Parameter>
+<Parameter type="4" name="Character" id="62750" value="F51E:=017F,0142" sortIndex="115" visible="false" isSet="true"><Description>Latin small ligature long s l with stroke</Description></Parameter>
+<Parameter type="4" name="Character" id="64262" value="FB06:=0073,0074" sortIndex="116" visible="false" isSet="true"><Description>Latin small ligature st</Description></Parameter>
+<Parameter type="4" name="Character" id="59106" value="E6E2:=0074,0301" sortIndex="117" visible="false" isSet="true"><Description>Latin small letter t with acute</Description></Parameter>
+<Parameter type="4" name="Character" id="61148" value="EEDC:=0074,007A" sortIndex="118" visible="false" isSet="true"><Description>Latin small ligature tz</Description></Parameter>
+<Parameter type="4" name="Character" id="62738" value="F512:=0074,0303" sortIndex="119" visible="false" isSet="true"><Description>Latin small letter t with tilde</Description></Parameter>
+<Parameter type="4" name="Character" id="61793" value="F161:=003B" sortIndex="150" visible="false" isSet="true"><Description>Punctus elevatus</Description></Parameter>
+<Parameter type="4" name="Character" id="383" value="017F:=0073" sortIndex="1000" visible="false" isSet="true"><Description>Replace latin small letter long s with latin small letter s</Description></Parameter>
+<Parameter type="4" name="Character" id="100001" value="A752:=0050,0052,004F" sortIndex="1000" visible="false" isSet="true"><Description>Replace latin capital letter p with flourish</Description></Parameter>
+<Parameter type="4" name="Character" id="100002" value="A753:=0070,0072,006F" sortIndex="1000" visible="false" isSet="true"><Description>Replace latin small letter p with flourish</Description></Parameter>
+</Parameters>
